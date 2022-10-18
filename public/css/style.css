@@ -1,0 +1,16 @@
+h3 {
+  /* border: 2px solid red; */
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#test {
+  display: none;
+}
+
+.errorForm {
+    color: red;
+    font-size: 0.7em;
+}
