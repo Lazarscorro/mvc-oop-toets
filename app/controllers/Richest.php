@@ -15,7 +15,6 @@ class Richest extends Controller
     $data = [
       'title' => "Verwijderen",
       'status' => "record succesvol verwijderd"
-      
     ];
 
     $this->view('homepages/delete', $data);
